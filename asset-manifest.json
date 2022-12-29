@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a82ea05.css",
-    "main.js": "/static/js/main.e7e68caf.js",
-    "static/media/nordstrom.png": "/static/media/nordstrom.08acabfef5bdf6df3408.png",
+    "main.css": "/static/css/main.0a94cddd.css",
+    "main.js": "/static/js/main.448e17fe.js",
     "static/media/ideakart.png": "/static/media/ideakart.7da416a7f9059d40f363.png",
     "static/media/codecov.png": "/static/media/codecov.b6b8edf9cc850e344094.png",
     "static/media/banner-woman2.webp": "/static/media/banner-woman2.484a3b40fee634e4b12f.webp",
+    "static/media/youtube.png": "/static/media/youtube.02ea4553d683998eb147.png",
     "static/media/kirtiImg.png": "/static/media/kirtiImg.3659154838423883b6de.png",
     "static/media/testimonial-2.webp": "/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/nordstrom.png": "/static/media/nordstrom.372aaf5ba746f8f64485.png",
     "static/media/chakra.png": "/static/media/chakra.c0fe0e95c137c17f3896.png",
     "static/media/redux.png": "/static/media/redux.c060f8c2869c2ba0736e.png",
     "static/media/material.png": "/static/media/material.9ad06b75ce04c4f50dee.png",
@@ -20,11 +21,11 @@
     "static/media/testimonial-1.webp": "/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
     "static/media/about.svg": "/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/index.html",
-    "main.3a82ea05.css.map": "/static/css/main.3a82ea05.css.map",
-    "main.e7e68caf.js.map": "/static/js/main.e7e68caf.js.map"
+    "main.0a94cddd.css.map": "/static/css/main.0a94cddd.css.map",
+    "main.448e17fe.js.map": "/static/js/main.448e17fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a82ea05.css",
-    "static/js/main.e7e68caf.js"
+    "static/css/main.0a94cddd.css",
+    "static/js/main.448e17fe.js"
   ]
 }
